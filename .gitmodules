@@ -1,0 +1,3 @@
+[submodule "modScore.Note"]
+	path = modScore.Note
+	url = git@github.com:insetavijit/modScore.Note.git
