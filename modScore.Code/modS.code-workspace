@@ -9,6 +9,7 @@
   ],
   "settings": {
     "php.executablePath": "/usr/bin/php",
+    "git.autoRepositoryDetection": true,
     "php.validate.executablePath": "/usr/bin/php",
     "php.suggest.basic": false,
     "intelephense.environment.phpVersion": "8.4.0",
