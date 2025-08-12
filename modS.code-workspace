@@ -2,9 +2,6 @@
   "folders": [
     {
       "path": "."
-    },
-    {
-      "path": "../modScore.Note"
     }
   ],
   "settings": {
@@ -31,7 +28,7 @@
       "wordpress"
     ],
     "intelephense.environment.includePaths": [
-      "./vendor"
+      "./modScore.Code/vendor"
     ],
     "files.exclude": {
       "**/node_modules": true,
